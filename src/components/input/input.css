@@ -1,0 +1,33 @@
+.input{
+    background-color:#4B99AF;
+    width: 100%;
+    height: 120px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+  }
+  
+  .input-wrap{
+    width: 100%;
+    /* height: 80%; */
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .input-group-text{
+    background-color: #fff;
+    border: none;
+    width: 100% !important;
+    margin-bottom: 10px;
+  }
+  
+  .btn-secondary{
+    width: 45%;
+  }
+  
+  .btn-success{
+    width: 45%;
+  }

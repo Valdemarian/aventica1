@@ -1,0 +1,19 @@
+.save{
+    /* display: flex; */
+    background-color:#4B99AF;
+    width: 70%;
+    min-height: 500px;
+    /* height: auto; */
+    border-radius: 5px;
+    /* flex-wrap: wrap; */
+    padding: 10px;
+    /* justify-content: space-between; */
+    align-items: start;
+  }
+
+  .save-wrap{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      overflow: hidden;
+  }

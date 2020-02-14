@@ -1,0 +1,17 @@
+.draft-item{
+    background-color: #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.draft-item p {
+    color: #000 !important;
+    margin-bottom: 10px;
+    width: 100%;
+    overflow: hidden
+}

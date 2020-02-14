@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aventica1/static/css/main.7d10a724.chunk.css",
+    "main.js": "/aventica1/static/js/main.bdc3c8b3.chunk.js",
+    "main.js.map": "/aventica1/static/js/main.bdc3c8b3.chunk.js.map",
+    "runtime-main.js": "/aventica1/static/js/runtime-main.db034405.js",
+    "runtime-main.js.map": "/aventica1/static/js/runtime-main.db034405.js.map",
+    "static/js/2.25c4e0e5.chunk.js": "/aventica1/static/js/2.25c4e0e5.chunk.js",
+    "static/js/2.25c4e0e5.chunk.js.map": "/aventica1/static/js/2.25c4e0e5.chunk.js.map",
+    "index.html": "/aventica1/index.html",
+    "precache-manifest.ec83df2e0ae126db7e9607845953bf27.js": "/aventica1/precache-manifest.ec83df2e0ae126db7e9607845953bf27.js",
+    "service-worker.js": "/aventica1/service-worker.js",
+    "static/css/main.7d10a724.chunk.css.map": "/aventica1/static/css/main.7d10a724.chunk.css.map",
+    "static/js/2.25c4e0e5.chunk.js.LICENSE.txt": "/aventica1/static/js/2.25c4e0e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db034405.js",
+    "static/js/2.25c4e0e5.chunk.js",
+    "static/css/main.7d10a724.chunk.css",
+    "static/js/main.bdc3c8b3.chunk.js"
+  ]
+}
